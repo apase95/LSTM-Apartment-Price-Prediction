@@ -10,7 +10,7 @@ tf.random.set_seed(2025)
 
 if __name__ == "__main__":
     loader = MarketDataLoader()
-    csv_file_path = "Dataset_GCC_HCM_2015_2025.csv"
+    csv_file_path = "Dataset_BDS_HCM_Merged.csv"
     df_market = loader.load_data_from_csv(csv_file_path)
 
     if df_market is not None:
@@ -19,6 +19,5 @@ if __name__ == "__main__":
         ai.step2_build_model()
         ai.step3_train(epochs=50, batch_size=16)
         ai.step4_evaluate_and_visualize()
-        ai.step5_predict_future()
     else:
         print("Thiếu dữ liệu.")
