@@ -58,6 +58,9 @@ def step2_build_model(self):
 python main.py
 ```
 ### 3. Result: The script will train the model and display a chart comparing Predicted Prices vs. Actual Prices.
+<img width="1064" height="604" alt="image" src="https://github.com/user-attachments/assets/345a130c-2c15-4e4a-8f12-fe35fc385e38" />
+<img width="835" height="608" alt="image" src="https://github.com/user-attachments/assets/ff4b6b74-2902-4a7d-bd2f-b124d0a2facc" />
+<img width="847" height="608" alt="image" src="https://github.com/user-attachments/assets/ee35ec54-bd2f-42ee-ab4b-c15d48e13854" />
 
 --- --- 
 ## 👨‍💻 Author
