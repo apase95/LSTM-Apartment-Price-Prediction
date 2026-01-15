@@ -64,8 +64,8 @@ python main.py
 
 --- --- 
 ## 👨‍💻 Author
-- Project: Apartment Price Prediction
-- Teammate: Ho Dang Thai Duy, Le Minh Hoang, Tran Duc Anh, Tran Xuan AN, Nong Hoang Anh
+- Project: HCMC Apartment Price Prediction LTSM
+- Teammate: Ho Dang Thai Duy, Le Minh Hoang, Tran Duc Anh, Tran Xuan An, Nong Hoang Anh
 
 --- ---
-### Thanks for checking out my project! 🌟
+### Thanks for checking out us project! 🌟
